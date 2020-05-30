@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87b94666b072b833af32131e7875d351",
+    "revision": "8feef383a0f8fe1c87ebee277fa2cd21",
     "url": "/reactagenda/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactagenda/static/css/2.6d92adba.chunk.css"
   },
   {
-    "revision": "789229e0dc501294221f",
+    "revision": "5624cdfabd7d58499f05",
     "url": "/reactagenda/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactagenda/static/js/2.5166254f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "789229e0dc501294221f",
-    "url": "/reactagenda/static/js/main.d527133f.chunk.js"
+    "revision": "5624cdfabd7d58499f05",
+    "url": "/reactagenda/static/js/main.d9f6c083.chunk.js"
   },
   {
     "revision": "77b584de470988b08453",
