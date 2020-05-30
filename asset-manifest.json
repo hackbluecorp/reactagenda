@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reactagenda/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactagenda/static/js/main.d9f6c083.chunk.js",
-    "main.js.map": "/reactagenda/static/js/main.d9f6c083.chunk.js.map",
-    "runtime-main.js": "/reactagenda/static/js/runtime-main.86a8fb89.js",
-    "runtime-main.js.map": "/reactagenda/static/js/runtime-main.86a8fb89.js.map",
-    "static/css/2.6d92adba.chunk.css": "/reactagenda/static/css/2.6d92adba.chunk.css",
-    "static/js/2.5166254f.chunk.js": "/reactagenda/static/js/2.5166254f.chunk.js",
-    "static/js/2.5166254f.chunk.js.map": "/reactagenda/static/js/2.5166254f.chunk.js.map",
-    "index.html": "/reactagenda/index.html",
-    "precache-manifest.07c1479ac882ccf3124926a2e08515c7.js": "/reactagenda/precache-manifest.07c1479ac882ccf3124926a2e08515c7.js",
-    "service-worker.js": "/reactagenda/service-worker.js",
-    "static/css/2.6d92adba.chunk.css.map": "/reactagenda/static/css/2.6d92adba.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/reactagenda/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5166254f.chunk.js.LICENSE.txt": "/reactagenda/static/js/2.5166254f.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.5f361e03.chunk.css",
+    "main.js": "./static/js/main.d9f6c083.chunk.js",
+    "main.js.map": "./static/js/main.d9f6c083.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2373ae16.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2373ae16.js.map",
+    "static/css/2.6d92adba.chunk.css": "./static/css/2.6d92adba.chunk.css",
+    "static/js/2.1e9a05bb.chunk.js": "./static/js/2.1e9a05bb.chunk.js",
+    "static/js/2.1e9a05bb.chunk.js.map": "./static/js/2.1e9a05bb.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c12082eefd3b11cb0f7b42dae51d78ef.js": "./precache-manifest.c12082eefd3b11cb0f7b42dae51d78ef.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.6d92adba.chunk.css.map": "./static/css/2.6d92adba.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "./static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1e9a05bb.chunk.js.LICENSE.txt": "./static/js/2.1e9a05bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.86a8fb89.js",
+    "static/js/runtime-main.2373ae16.js",
     "static/css/2.6d92adba.chunk.css",
-    "static/js/2.5166254f.chunk.js",
+    "static/js/2.1e9a05bb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
     "static/js/main.d9f6c083.chunk.js"
   ]
