@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.354065fb.chunk.js",
-    "main.js.map": "/static/js/main.354065fb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8e0b2bba.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8e0b2bba.js.map",
-    "static/css/2.6d92adba.chunk.css": "/static/css/2.6d92adba.chunk.css",
-    "static/js/2.d64ac278.chunk.js": "/static/js/2.d64ac278.chunk.js",
-    "static/js/2.d64ac278.chunk.js.map": "/static/js/2.d64ac278.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.debf325d88d336d9ae3fc00fca82543f.js": "/precache-manifest.debf325d88d336d9ae3fc00fca82543f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.6d92adba.chunk.css.map": "/static/css/2.6d92adba.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d64ac278.chunk.js.LICENSE.txt": "/static/js/2.d64ac278.chunk.js.LICENSE.txt"
+    "main.css": "/reactagenda/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactagenda/static/js/main.04090896.chunk.js",
+    "main.js.map": "/reactagenda/static/js/main.04090896.chunk.js.map",
+    "runtime-main.js": "/reactagenda/static/js/runtime-main.86a8fb89.js",
+    "runtime-main.js.map": "/reactagenda/static/js/runtime-main.86a8fb89.js.map",
+    "static/css/2.6d92adba.chunk.css": "/reactagenda/static/css/2.6d92adba.chunk.css",
+    "static/js/2.d64ac278.chunk.js": "/reactagenda/static/js/2.d64ac278.chunk.js",
+    "static/js/2.d64ac278.chunk.js.map": "/reactagenda/static/js/2.d64ac278.chunk.js.map",
+    "index.html": "/reactagenda/index.html",
+    "precache-manifest.ae65af562c97208eed1472deeedfb115.js": "/reactagenda/precache-manifest.ae65af562c97208eed1472deeedfb115.js",
+    "service-worker.js": "/reactagenda/service-worker.js",
+    "static/css/2.6d92adba.chunk.css.map": "/reactagenda/static/css/2.6d92adba.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/reactagenda/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d64ac278.chunk.js.LICENSE.txt": "/reactagenda/static/js/2.d64ac278.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e0b2bba.js",
+    "static/js/runtime-main.86a8fb89.js",
     "static/css/2.6d92adba.chunk.css",
     "static/js/2.d64ac278.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.354065fb.chunk.js"
+    "static/js/main.04090896.chunk.js"
   ]
 }
