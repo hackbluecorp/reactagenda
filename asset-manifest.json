@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/reactagenda/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactagenda/static/js/main.387d8977.chunk.js",
-    "main.js.map": "/reactagenda/static/js/main.387d8977.chunk.js.map",
+    "main.js": "/reactagenda/static/js/main.007e1961.chunk.js",
+    "main.js.map": "/reactagenda/static/js/main.007e1961.chunk.js.map",
     "runtime-main.js": "/reactagenda/static/js/runtime-main.86a8fb89.js",
     "runtime-main.js.map": "/reactagenda/static/js/runtime-main.86a8fb89.js.map",
     "static/css/2.6d92adba.chunk.css": "/reactagenda/static/css/2.6d92adba.chunk.css",
-    "static/js/2.d64ac278.chunk.js": "/reactagenda/static/js/2.d64ac278.chunk.js",
-    "static/js/2.d64ac278.chunk.js.map": "/reactagenda/static/js/2.d64ac278.chunk.js.map",
+    "static/js/2.735c32aa.chunk.js": "/reactagenda/static/js/2.735c32aa.chunk.js",
+    "static/js/2.735c32aa.chunk.js.map": "/reactagenda/static/js/2.735c32aa.chunk.js.map",
     "index.html": "/reactagenda/index.html",
-    "precache-manifest.27126ca20321170251f367d4c01d4d15.js": "/reactagenda/precache-manifest.27126ca20321170251f367d4c01d4d15.js",
+    "precache-manifest.b893587231a1f71d14dba3bff239c9de.js": "/reactagenda/precache-manifest.b893587231a1f71d14dba3bff239c9de.js",
     "service-worker.js": "/reactagenda/service-worker.js",
     "static/css/2.6d92adba.chunk.css.map": "/reactagenda/static/css/2.6d92adba.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/reactagenda/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.d64ac278.chunk.js.LICENSE.txt": "/reactagenda/static/js/2.d64ac278.chunk.js.LICENSE.txt"
+    "static/js/2.735c32aa.chunk.js.LICENSE.txt": "/reactagenda/static/js/2.735c32aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.86a8fb89.js",
     "static/css/2.6d92adba.chunk.css",
-    "static/js/2.d64ac278.chunk.js",
+    "static/js/2.735c32aa.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.387d8977.chunk.js"
+    "static/js/main.007e1961.chunk.js"
   ]
 }
