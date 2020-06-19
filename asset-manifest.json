@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactagenda/static/css/main.00aafb5d.chunk.css",
-    "main.js": "/reactagenda/static/js/main.39e62a98.chunk.js",
-    "main.js.map": "/reactagenda/static/js/main.39e62a98.chunk.js.map",
+    "main.js": "/reactagenda/static/js/main.d5b4f50e.chunk.js",
+    "main.js.map": "/reactagenda/static/js/main.d5b4f50e.chunk.js.map",
     "runtime-main.js": "/reactagenda/static/js/runtime-main.86a8fb89.js",
     "runtime-main.js.map": "/reactagenda/static/js/runtime-main.86a8fb89.js.map",
     "static/css/2.6d92adba.chunk.css": "/reactagenda/static/css/2.6d92adba.chunk.css",
     "static/js/2.d41f3cd3.chunk.js": "/reactagenda/static/js/2.d41f3cd3.chunk.js",
     "static/js/2.d41f3cd3.chunk.js.map": "/reactagenda/static/js/2.d41f3cd3.chunk.js.map",
     "index.html": "/reactagenda/index.html",
-    "precache-manifest.eb4d7b00d98499d54ee763fcf0147540.js": "/reactagenda/precache-manifest.eb4d7b00d98499d54ee763fcf0147540.js",
+    "precache-manifest.28c5dbac32c8737ce6a443f106f6fefc.js": "/reactagenda/precache-manifest.28c5dbac32c8737ce6a443f106f6fefc.js",
     "service-worker.js": "/reactagenda/service-worker.js",
     "static/css/2.6d92adba.chunk.css.map": "/reactagenda/static/css/2.6d92adba.chunk.css.map",
     "static/css/main.00aafb5d.chunk.css.map": "/reactagenda/static/css/main.00aafb5d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6d92adba.chunk.css",
     "static/js/2.d41f3cd3.chunk.js",
     "static/css/main.00aafb5d.chunk.css",
-    "static/js/main.39e62a98.chunk.js"
+    "static/js/main.d5b4f50e.chunk.js"
   ]
 }
