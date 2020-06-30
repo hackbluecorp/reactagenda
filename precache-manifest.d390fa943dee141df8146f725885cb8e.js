@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8707c91f572d77968387250b693015fe",
+    "revision": "7381bc80b23de5d37ea6246313370610",
     "url": "/reactagenda/index.html"
   },
   {
-    "revision": "174e09c03fb251274c7c",
+    "revision": "5c2b60bbe728336d3637",
     "url": "/reactagenda/static/css/2.6d92adba.chunk.css"
   },
   {
-    "revision": "5fc54e50c720446cf1b6",
+    "revision": "70ab5c0dd47a7af33bd2",
     "url": "/reactagenda/static/css/main.00aafb5d.chunk.css"
   },
   {
-    "revision": "174e09c03fb251274c7c",
-    "url": "/reactagenda/static/js/2.d41f3cd3.chunk.js"
+    "revision": "5c2b60bbe728336d3637",
+    "url": "/reactagenda/static/js/2.de9083fc.chunk.js"
   },
   {
     "revision": "d44e0cfa1f51b25079454bd515ac8f9b",
-    "url": "/reactagenda/static/js/2.d41f3cd3.chunk.js.LICENSE.txt"
+    "url": "/reactagenda/static/js/2.de9083fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5fc54e50c720446cf1b6",
-    "url": "/reactagenda/static/js/main.d5b4f50e.chunk.js"
+    "revision": "70ab5c0dd47a7af33bd2",
+    "url": "/reactagenda/static/js/main.b182e17c.chunk.js"
   },
   {
     "revision": "77b584de470988b08453",
