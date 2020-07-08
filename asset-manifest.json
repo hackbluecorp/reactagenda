@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/reactagenda/static/css/main.00aafb5d.chunk.css",
-    "main.js": "/reactagenda/static/js/main.b182e17c.chunk.js",
-    "main.js.map": "/reactagenda/static/js/main.b182e17c.chunk.js.map",
+    "main.js": "/reactagenda/static/js/main.4be83663.chunk.js",
+    "main.js.map": "/reactagenda/static/js/main.4be83663.chunk.js.map",
     "runtime-main.js": "/reactagenda/static/js/runtime-main.86a8fb89.js",
     "runtime-main.js.map": "/reactagenda/static/js/runtime-main.86a8fb89.js.map",
     "static/css/2.6d92adba.chunk.css": "/reactagenda/static/css/2.6d92adba.chunk.css",
-    "static/js/2.de9083fc.chunk.js": "/reactagenda/static/js/2.de9083fc.chunk.js",
-    "static/js/2.de9083fc.chunk.js.map": "/reactagenda/static/js/2.de9083fc.chunk.js.map",
+    "static/js/2.f0de5fe6.chunk.js": "/reactagenda/static/js/2.f0de5fe6.chunk.js",
+    "static/js/2.f0de5fe6.chunk.js.map": "/reactagenda/static/js/2.f0de5fe6.chunk.js.map",
     "index.html": "/reactagenda/index.html",
-    "precache-manifest.d390fa943dee141df8146f725885cb8e.js": "/reactagenda/precache-manifest.d390fa943dee141df8146f725885cb8e.js",
+    "precache-manifest.305acc0e5a531655018f8e6165e199f2.js": "/reactagenda/precache-manifest.305acc0e5a531655018f8e6165e199f2.js",
     "service-worker.js": "/reactagenda/service-worker.js",
     "static/css/2.6d92adba.chunk.css.map": "/reactagenda/static/css/2.6d92adba.chunk.css.map",
     "static/css/main.00aafb5d.chunk.css.map": "/reactagenda/static/css/main.00aafb5d.chunk.css.map",
-    "static/js/2.de9083fc.chunk.js.LICENSE.txt": "/reactagenda/static/js/2.de9083fc.chunk.js.LICENSE.txt"
+    "static/js/2.f0de5fe6.chunk.js.LICENSE.txt": "/reactagenda/static/js/2.f0de5fe6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.86a8fb89.js",
     "static/css/2.6d92adba.chunk.css",
-    "static/js/2.de9083fc.chunk.js",
+    "static/js/2.f0de5fe6.chunk.js",
     "static/css/main.00aafb5d.chunk.css",
-    "static/js/main.b182e17c.chunk.js"
+    "static/js/main.4be83663.chunk.js"
   ]
 }
